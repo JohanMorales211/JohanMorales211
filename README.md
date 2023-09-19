@@ -18,8 +18,6 @@ Habilidades
 
 Contacto
 ---
-- Encuentra mi pagina de Linkedin [website](www.linkedin.com/in/johan-morales-b3809b206)
-
 - Mi correo personal respondo más rapido! [Escribir Correo](https://johanmorales211@gmail.com)
 
 Herramientas
