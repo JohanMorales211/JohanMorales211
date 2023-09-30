@@ -8,9 +8,6 @@ Mi nombre es Johan Morales Ortegon y soy de Colombia!
 * Actualmente trabajo como desarrollador de Software
 * 💙  JAVA, desarrollo Backend
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Helleg0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 Habilidades
 ---
 * Lenguajes de Programación - Java (POO), Python, PHP, CSS, Javascript, HTML5, Kotlin, C#
@@ -22,6 +19,9 @@ Habilidades
 Contacto
 ---
 - Mi correo personal respondo más rapido! [Escribir Correo](https://johanmorales211@gmail.com)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Helleg0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 Herramientas
 ---
