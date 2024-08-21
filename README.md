@@ -3,7 +3,7 @@ Hola 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I´m+Johan+Morales+🔥;Software+Developer+;Building+Amazing+Things)](https://git.io/typing-svg)
 --- 
 
-Soy un colombiano 🇨🇴 apasionado en el desarrollo de software 💻 con experiencia en la construcción de aplicaciones web robustas y escalables. Me encanta aprender nuevas tecnologías 💡 y afrontar desafíos complejos 💪.
+Soy un colombiano apasionado en el desarrollo de software con experiencia en la construcción de aplicaciones web robustas y escalables. Me encanta aprender nuevas tecnologías y afrontar desafíos complejos 💪.
 
 * En estos momentos no estoy trabajando 💼, pero estoy buscando activamente nuevas oportunidades y emocionado por volver a la acción 🚀.
 * 💙  Me apasiona el desarrollo backend con Java ☕, aunque también disfruto del desarrollo frontend 🎨.
