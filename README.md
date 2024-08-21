@@ -3,7 +3,7 @@ Hola 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I´m+Johan+Morales+🔥;Software+Developer+;Building+Amazing+Things)](https://git.io/typing-svg)
 --- 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
 
 Soy un colombiano apasionado en el desarrollo de software con experiencia en la construcción de aplicaciones web robustas y escalables. Me encanta aprender nuevas tecnologías y afrontar desafíos complejos.
 
