@@ -8,7 +8,7 @@ Soy un colombiano apasionado en el desarrollo de software con experiencia en la 
 * En estos momentos no estoy trabajando 💼, pero estoy buscando activamente nuevas oportunidades y emocionado por volver a la acción 🚀.
 * 💙  Me apasiona el desarrollo backend con Java ☕, aunque también disfruto del desarrollo frontend 🎨.
 
-**Portafolio Personal:** [https://73tmxc.csb.app/#experience](https://73tmxc.csb.app/#experience) 👈
+**Portafolio Personal:** [Portafolio Personal](https://73tmxc.csb.app/) 👈
 
 ---
 
@@ -58,14 +58,6 @@ Aquí tienes un resumen de mis habilidades 📚:
 ## Contacto ✉️
 
 - Mi correo personal respondo más rapido! [Escribir Correo](https://johanmorales211@gmail.com) 📧
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Helleg0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
 
 ## Herramientas 🛠️
 
