@@ -6,7 +6,7 @@ Hola 👋
 Soy un colombiano apasionado en el desarrollo de software con experiencia en la construcción de aplicaciones web robustas y escalables. Me encanta aprender nuevas tecnologías y afrontar desafíos complejos 💪.
 
 * En estos momentos no estoy trabajando 💼, pero estoy buscando activamente nuevas oportunidades y emocionado por volver a la acción 🚀.
-* 💙  Me apasiona el desarrollo backend con Java ☕, aunque también disfruto del desarrollo frontend 🎨.
+* Me apasiona el desarrollo backend con Java ☕, aunque también disfruto del desarrollo frontend 🎨.
 
 **Portafolio Personal:** [Portafolio Personal](https://73tmxc.csb.app/) 👈
 
@@ -14,65 +14,43 @@ Soy un colombiano apasionado en el desarrollo de software con experiencia en la 
 
 ## Habilidades 🚀
 
-Aquí tienes un resumen de mis habilidades 📚:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-**Front-end Development 🌐:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-659DBD?style=for-the-badge&logo=liquibase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-* **HTML:** Estructuración semántica y accesible 🧱.
-* **CSS:** Estilos elegantes y responsive con frameworks como Bootstrap y Tailwind 💅.
-* **JavaScript:** Desarrollo interactivo y dinámico con frameworks como React y Angular ✨.
-* **TypeScript:** Tipado estático para un código más robusto 🔒.
-* **Java (para desarrollo web):**  Utilizado con frameworks como Spring Boot para construir backends ⚙️.
-* **Kotlin (para desarrollo web):**  Lenguaje moderno y conciso para el desarrollo de backends 🚄.
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-**Back-end Development ⚙️:**
-
-* **Java:** Desarrollo de aplicaciones robustas y escalables 🏗️.
-* **Spring Boot:** Framework para la creación rápida de aplicaciones Spring 🍃.
-* **Docker:** Contenedorización para despliegues eficientes 🐳.
-* **Liquibase:** Gestión de versiones de bases de datos 💾.
-* **PostgreSQL & MySQL:** Bases de datos relacionales 🗄️.
-* **Swagger:** Documentación de APIs 📑.
-* **GitLab & Git/GitHub:** Control de versiones y colaboración en proyectos 🤝.
-
-**Frameworks 🧰:**
-
-* **Angular:** Framework para construir aplicaciones web complejas 🅰️.
-* **Spring Boot:** Framework para la creación rápida de aplicaciones Spring 🍃.
-* **Bootstrap:** Framework CSS para un diseño responsive 🅱️.
-* **Tailwind CSS:**  Framework CSS para un diseño altamente personalizable 🎨.
-* **React:**  Librería JavaScript para construir interfaces de usuario ⚛️.
-* **Thymeleaf:**  Motor de plantillas para Java 🍃.
-
-**Others ➕:**
-
-* **SCRUM:** Metodología ágil para el desarrollo de software 🏃‍♂️.
-* **JQuery:**  Librería JavaScript para manipulación del DOM 🖱️.
-* **Microservices:** Arquitectura para construir aplicaciones distribuidas 🌐.
-* **Node.js:**  Entorno de ejecución de JavaScript 🟢.
-* **API Management:** Diseño, publicación y gestión de APIs 🔌.
-
+![SCRUM](https://img.shields.io/badge/Scrum-161D2F?style=for-the-badge&logo=scrum-alliance&logoColor=white)
+![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-999999?style=for-the-badge&logo=microservices&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![API](https://img.shields.io/badge/API-blue?style=for-the-badge)
 
 ---
 
 ## Contacto ✉️
 
 - Mi correo personal respondo más rapido! [Escribir Correo](https://johanmorales211@gmail.com) 📧
-
-## Herramientas 🛠️
-
-<p align="left"> 
-  <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://es.react.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindui.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://swagger.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swagger_api/swagger_api-icon.svg" alt="swagger" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-</p>
