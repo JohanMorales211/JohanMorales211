@@ -51,6 +51,22 @@ Soy un colombiano apasionado en el desarrollo de software con experiencia en la 
 
 ---
 
+## Experiencia 💼
+
+**Desarrollador Web en Prácticas - Safe Society** | Septiembre 2023 - Febrero 2024
+
+* Colaboración con la Universidad ESAP en el desarrollo de una aplicación web.
+* Participación en todas las fases del ciclo de vida del desarrollo, desde el análisis hasta la implementación y pruebas.
+* Experiencia en el uso de Liquibase para la gestión de cambios en la base de datos.
+* Desarrollo de servicios utilizando Java.
+* Cumplimiento de plazos y objetivos del proyecto.
+
+---
+
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=JohanMorales211&show_icons=true&theme=radical)](https://github.com/JohanMorales211)
+
+---
+
 ## Contacto ✉️
 
 - Mi correo personal respondo más rapido! [Escribir Correo](https://johanmorales211@gmail.com) 📧
