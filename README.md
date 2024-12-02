@@ -5,8 +5,8 @@ Hola 👋
 
 Soy un colombiano apasionado en el desarrollo de software con experiencia en la construcción de aplicaciones web robustas y escalables. Me encanta aprender nuevas tecnologías y afrontar desafíos complejos 💪.
 
-* En estos momentos no estoy trabajando 💼, pero estoy buscando activamente nuevas oportunidades y emocionado por volver a la acción 🚀.
-* Me apasiona el desarrollo backend con Java ☕, aunque también disfruto del desarrollo frontend 🎨.
+* Actualmente trabajo como Ingeniero de Desarrollo en CeluWeb 💼.
+* Me apasiona el desarrollo backend con Java y Python, aunque también disfruto del desarrollo frontend 🎨.
 
 **Portafolio Personal:** [Portafolio Personal](https://73tmxc.csb.app/) 👈
 
