@@ -8,7 +8,7 @@ Soy un colombiano apasionado en el desarrollo de software con experiencia en la 
 * Actualmente trabajo como Ingeniero de Desarrollo en CeluWeb 💼.
 * Me apasiona el desarrollo backend con Java y Python, aunque también disfruto del desarrollo frontend 🎨.
 
-**Portafolio Personal:** [Portafolio Personal](https://73tmxc.csb.app/) 👈
+**Portafolio Personal:** [Portafolio Personal](https://johanmorales211.github.io/portafolio-personal/) 👈
 
 ---
 
