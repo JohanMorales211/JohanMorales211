@@ -3,10 +3,10 @@ Hola 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I´m+Johan+Morales+🔥;Software+Developer+;Building+Amazing+Things)](https://git.io/typing-svg)
 --- 
 
-Soy un colombiano apasionado en el desarrollo de software con experiencia en la construcción de aplicaciones web robustas y escalables. Me encanta aprender nuevas tecnologías y afrontar desafíos complejos 💪.
+Soy un colombiano apasionado en el desarrollo de software con dos años de experiencia en la construcción de aplicaciones web robustas y escalables. Me encanta aprender nuevas tecnologías y afrontar desafíos complejos 💪.
 
-* Actualmente trabajo como Ingeniero de Desarrollo en CeluWeb 💼.
-* Me apasiona el desarrollo backend con Java y Python, aunque también disfruto del desarrollo frontend 🎨.
+*   **Actualmente en busca de nuevas oportunidades laborales** donde pueda aportar mis habilidades y seguir creciendo profesionalmente 🚀.
+*   Me apasiona el desarrollo backend con Java y Python, aunque también disfruto del desarrollo frontend 🎨.
 
 **Portafolio Personal:** [Portafolio Personal](https://johanmorales211.github.io/portafolio-personal/) 👈
 
@@ -51,22 +51,13 @@ Soy un colombiano apasionado en el desarrollo de software con experiencia en la 
 
 ---
 
-## Experiencia 💼
+## Estadísticas de GitHub 📊
 
-**Desarrollador Web en Prácticas - Safe Society** | Septiembre 2023 - Febrero 2024
-
-* Colaboración con la Universidad ESAP en el desarrollo de una aplicación web.
-* Participación en todas las fases del ciclo de vida del desarrollo, desde el análisis hasta la implementación y pruebas.
-* Experiencia en el uso de Liquibase para la gestión de cambios en la base de datos.
-* Desarrollo de servicios utilizando Java.
-* Cumplimiento de plazos y objetivos del proyecto.
-
----
-
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=JohanMorales211&show_icons=true&theme=radical)](https://github.com/JohanMorales211)
+[![Estadísticas de GitHub de Johan](https://github-readme-stats.vercel.app/api?username=JohanMorales211&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lenguajes más usados por Johan](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMorales211&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## Contacto ✉️
 
-- Mi correo personal respondo más rapido! [Escribir Correo](https://johanmorales211@gmail.com) 📧
+- ¡Mi correo personal, respondo más rápido! [Escribir Correo](mailto:johanmorales211@gmail.com) 📧
